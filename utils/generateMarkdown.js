@@ -1,9 +1,11 @@
-# Good README Generator
+// function to generate markdown for README
+function generateMarkdown(data) {
+  return `# ${data.title}
 
 ## Description 
-Using CLI to create a README Generator using node JS
+${data.description}
                 
-![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)
+![GitHub License](https://img.shields.io/badge/license-${data.license}-green.svg)
 
 ## Table of Contents
                                            
@@ -17,25 +19,29 @@ Using CLI to create a README Generator using node JS
                       
 ## Installation
                       
-run npm install
+${data.installation}
                      
 ## Usage 
                       
-none
+${data.usage}
 
 ## Tests
                       
-undefined
+${data.tests}
 
 ## Contributing
                       
-undefined
+${data.contributing}
                     
 ## License
                       
-Project license: MIT.
+Project license: ${data.license}.
                                                         
 ## Questions
-Let me know if you have any questions! Check out my [GitHub Profile](https://github.com/davidnjaffe)                 
-Or email me @ <davidnjaffe@gmail.com>.
+Let me know if you have any questions! Check out my [GitHub Profile](https://github.com/${data.username})                 
+Or email me @ <${data.email}>.
                       
+`;
+}
+
+module.exports = generateMarkdown;
