@@ -38,7 +38,9 @@ ${data.contributing}
                       
 Project license: ${data.license}
 
-##Notes
+## Notes
+
+${data.notes}
                                                         
 ## Questions
 Let me know if you have any questions! Check out my [GitHub Profile](https://github.com/${data.username})                 

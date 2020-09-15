@@ -49,15 +49,15 @@ inquirer.prompt([
       ]
     },
     {
-        type: "input",
-        name: "username",
-        message: "What is your Github username?"
-    },
-    {
       type: "input",
       name: "notes",
       message: "Notes to user:"
   },
+    {
+        type: "input",
+        name: "username",
+        message: "What is your Github username?"
+    },
     {
         type: "input",
         name: "email",
