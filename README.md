@@ -1,7 +1,8 @@
-# Good README Generator
+# Good README generator
 
 ## Description 
-Using CLI to create a README Generator using node JS
+
+Using CLI and node js, build a README.md generator
                 
 ![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)
 
@@ -12,12 +13,12 @@ Using CLI to create a README Generator using node JS
 * [Testing](#testing)
 * [Contribution](#contribution)
 * [License](#license)
+* [Notes](#notes)
 * [Questions](#questions)
-
-                      
+                    
 ## Installation
                       
-run npm install
+npm install
                      
 ## Usage 
                       
@@ -33,9 +34,11 @@ undefined
                     
 ## License
                       
-Project license: MIT.
+Project license: MIT
+
+##Notes
                                                         
 ## Questions
 Let me know if you have any questions! Check out my [GitHub Profile](https://github.com/davidnjaffe)                 
-Or email me @ <davidnjaffe@gmail.com>.
+Or email me @ <./images/test.gif>
                       

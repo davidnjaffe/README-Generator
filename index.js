@@ -54,6 +54,11 @@ inquirer.prompt([
         message: "What is your Github username?"
     },
     {
+      type: "input",
+      name: "notes",
+      message: "Notes to user:"
+  },
+    {
         type: "input",
         name: "email",
         message: "What is your email?"
@@ -67,10 +72,10 @@ inquirer.prompt([
     
   });
 
-// array of questions for user
-const questions = [
+// // array of questions for user
+// const questions = [
 
-];
+// ];
 
 // function to write README file
 function writeToFile(fileName, data) {
