@@ -38,7 +38,8 @@ Project license: artistic-2.0
 
 ## Notes
 
-n/a
+view video of app in use: https://github.com/davidnjaffe/README-Generator/blob/master/images/README%20Generator.gif
+view screenshot of app:
                                                         
 ## Questions
 Let me know if you have any questions! Check out my [GitHub Profile](https://github.com/davidnjaffe)                 
