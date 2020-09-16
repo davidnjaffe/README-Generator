@@ -39,7 +39,7 @@ Project license: artistic-2.0
 ## Notes
 
 view video of app in use: https://github.com/davidnjaffe/README-Generator/blob/master/images/README%20Generator.gif
-view screenshot of app:
+view screenshot of app: https://github.com/davidnjaffe/README-Generator/blob/master/images/CLI%20app%20screenshot.png
                                                         
 ## Questions
 Let me know if you have any questions! Check out my [GitHub Profile](https://github.com/davidnjaffe)                 
