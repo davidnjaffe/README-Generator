@@ -2,7 +2,7 @@
 
 ## Description 
 
-![Farmers Market Finder Demo](images/README generator.gif)
+![aa](/blob/master/images/README%20Generator.gif)
 
 Create a readme.md file using node.js and the CLI
                 
