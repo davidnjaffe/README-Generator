@@ -1,6 +1,6 @@
 # Good Readme Generator
 
-![Good Readme Generator Demo](images/README.gif)
+![Good Readme Generator Demo](./images/README%20Generator.gif)
 
 ## Description 
 
