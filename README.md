@@ -1,8 +1,10 @@
 # Good Readme Generator
 
+![Good Readme Generator Demo](images/README.gif)
+
 ## Description 
 
-![aa](/blob/master/images/README%20Generator.gif)
+
 
 Create a readme.md file using node.js and the CLI
                 
